@@ -8,8 +8,6 @@ package com.mycompany.medicarehospital;
  *
  * @author Student
  */
-public enum PatientCategory {
-    INPATIENT,
-    OUTPATIENT,
-    EMERGENCY
+public class PatientCategory {
+    
 }
